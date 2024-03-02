@@ -1,0 +1,3 @@
+C:/GitPol/GitHub/Proga/NewRes2/CMakeFiles/intro_oop.dir
+C:/GitPol/GitHub/Proga/NewRes2/CMakeFiles/ALL_BUILD.dir
+C:/GitPol/GitHub/Proga/NewRes2/CMakeFiles/ZERO_CHECK.dir
